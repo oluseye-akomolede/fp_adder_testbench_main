@@ -1,0 +1,3 @@
+[submodule "fp_adder_module"]
+	path = fp_adder_module
+	url = https://github.com/oluseye-akomolede/fp_adder_module.git
