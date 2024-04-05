@@ -1,0 +1,3 @@
+This work showcases a 16-bit floating-point adder. The purpose of this project is to demonstrate my skills using VHDL and System Verilog. The adder module is an old design and is part of a much larger matrix multiplication module; it’s coded in VHDL and the accompanying testbench code is written in System Verilog. The testbench methodology follows the VMM methodology. Future works will incorporate UVM concepts. 
+I picked this module because it’s an intermediate-level design with some state-machine code that shows a decent amount of competency with VHDL and its underlying concepts, while also allowing me to fully exercise the full features of the testbench code.
+
